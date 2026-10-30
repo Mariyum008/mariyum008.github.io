@@ -8,6 +8,8 @@
 
 [![Live site](https://img.shields.io/badge/visit%20my%20site-mariyum008.github.io-e0218a?style=for-the-badge)](https://mariyum008.github.io)
 
+🌐 **Live on GitHub Pages:** [https://mariyum008.github.io](https://mariyum008.github.io)
+
 </div>
 
 ---
